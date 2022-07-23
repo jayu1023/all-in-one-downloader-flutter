@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "239944727477",
+    "project_id": "allinonedownloader-af409",
+    "storage_bucket": "allinonedownloader-af409.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239944727477:android:5be54379f89b343287f7fc",
+        "android_client_info": {
+          "package_name": "com.SiliconInfotechdownloader.allinonevideodownloader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239944727477-bcfpgcj6pgcurrdb10s2hu2uatn7q0no.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.SiliconInfotechdownloader.allinonevideodownloader",
+            "certificate_hash": "ced30264a0dadb5902374fb6a5e9c8d6ca5f33d0"
+          }
+        },
+        {
+          "client_id": "239944727477-1qk4jmq39l3g9irb96pqvaqc9uc3fg6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvOPtH0Y_l4Q8ILf7iPcXUMGpl8oKYXwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239944727477-1qk4jmq39l3g9irb96pqvaqc9uc3fg6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
